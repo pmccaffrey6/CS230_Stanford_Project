@@ -12,19 +12,21 @@ The model itself is, of course, a required component both as a baseline for whic
 
 Finally, model outputs are encoding vectors which have to be clustered and those clusters have to be scored in terms of the precision/contamination and recall/completeness in their ability to capture the souce genomes.
 
-This repository contains several important notebooks detailing each aspect of this process:
+This repository contains several important notebooks detailing each aspect of this process. The figure below provides an overall schematic of model training and its related pre- and post-processing steps. The numbered elements in the schematic correspond to the numbered subtitles for corresponding notebooks below:
 
-### Acquiring Data
+![alt text](annotated_Stanford_schematic.png "Model Workflow to Include Pre- and Post-Processing")
+
+### 1. Acquiring Data
 Thos notebook walks through the process of simulating short read metagenome shotgun sequencing datasets from a collection of input source genomes and both describes and demonstrates how to use the CAMISIM package to simulate our input data.
 
-### Preparing Data
+### 2. Preparing Data
 This notebook describes and demonstrates the process of taking short read input data such as that produced in the previous notebook and creating the assembled contigs along with abundance and tetranucleotide frequency data. Note that there are multiple ways that one could do this but I use minimap2 and certain utilities from the VAMB package which I have more or less "hotwired" into the repository.
 
-### Running VAMB
+### 3. Running VAMB
 This notebook described the baseline process of running the VAMB model as described by Nissen et al. and is incorporated from their repository.
 
-### Beta VAE
+### 4. Beta VAE
 This repository contains the encoder model specific to this project which is build to fit into the workflow in place of VAMB while still being able to rely on some of VAMB's data ingestion utilizies. This is where we define and tweak the beta parameter.
 
-### Benchmarking Bins
+### 5. Benchmarking Bins
 This notebook contains the steps to take bins clustered in the encoding space and to score their completeness and contamination which is analogous to recall and precision. This also contains the code to generate tSNE plots in the encoding space to better visualize this specific step and the impact of the beta parameter on clustering here.
