@@ -9,3 +9,4 @@ example_input_data/MetaHIT_data/
 example_input_data/mosaic_challenge/
 example_input_data/new_simulations/camisim_outputs/
 example_input_data/new_simulations/catalogue.mmi
+wandb/
