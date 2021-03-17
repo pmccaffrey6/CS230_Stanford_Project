@@ -26,7 +26,7 @@ This notebook describes and demonstrates the process of taking short read input 
 This notebook described the baseline process of running the VAMB model as described by Nissen et al. and is incorporated from their repository.
 
 ### 4. Beta VAE
-This repository contains the encoder model specific to this project which is build to fit into the workflow in place of VAMB while still being able to rely on some of VAMB's data ingestion utilizies. This is where we define and tweak the beta parameter.
+This notebook (`beta_vae-WANDB.ipynb`) contains the encoder model specific to this project which is built to fit into the workflow in place of VAMB while still being able to rely on some of VAMB's data ingestion utilizies. This is where I define and tweak the beta parameter.
 
 ### 5. Benchmarking Bins
 This notebook contains the steps to take bins clustered in the encoding space and to score their completeness and contamination which is analogous to recall and precision. This also contains the code to generate tSNE plots in the encoding space to better visualize this specific step and the impact of the beta parameter on clustering here.
