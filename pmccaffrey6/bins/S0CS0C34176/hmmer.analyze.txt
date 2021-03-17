@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C34176_1           -            158 SmpB                 PF01668.13    68   1.6e-35  111.3   0.4   1   1   1.8e-36   3.3e-35  110.3   0.4     2    68    13    79    12    79 0.97 # 292 # 765 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.384
+S0C34176_8           -             79 TIGR00810            TIGR00810     73   2.8e-25   78.5   1.6   1   1   1.7e-26   3.1e-25   78.3   1.6     1    72     2    75     2    76 0.95 # 3950 # 4186 # -1 # ID=1_8;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.405
+S0C34176_18          -            337 Gp_dh_N              PF00044.19   151   4.3e-52  166.6   0.1   1   1     5e-53   8.9e-52  165.5   0.0     1   151     3   153     3   153 0.98 # 10965 # 11975 # -1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.401
+S0C34176_2           -            243 S1                   PF00575.18    74   1.4e-20   63.8   0.7   1   1   1.2e-21   2.2e-20   63.1   0.7     2    70   101   180   100   183 0.95 # 787 # 1515 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.431
+S0C34176_6           -            122 OB_RNB               PF08206.6     58   1.7e-16   50.1   0.1   1   1   1.6e-17   2.9e-16   49.3   0.1     1    55    26    80    26    86 0.80 # 2599 # 2964 # -1 # ID=1_6;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421
+S0C34176_17          -            405 PGK                  PF00162.14   384  4.1e-153  499.8   0.3   1   1  2.6e-154  4.7e-153  499.7   0.3     1   384     5   393     5   393 0.97 # 9646 # 10860 # -1 # ID=1_17;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.421
+S0C34176_18          -            337 ADH_zinc_N           PF00107.21   130     8e-05   12.7   0.0   1   1   9.1e-06   0.00016   11.7   0.0    53    99    88   133    68   165 0.78 # 10965 # 11975 # -1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.401
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/aab85845-632f-482f-b2ab-8ed22bb0c4f6
+# Target file:     pmccaffrey6/bins/S0CS0C34176/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C34176/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/aab85845-632f-482f-b2ab-8ed22bb0c4f6 pmccaffrey6/bins/S0CS0C34176/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:13 2021
+# [ok]

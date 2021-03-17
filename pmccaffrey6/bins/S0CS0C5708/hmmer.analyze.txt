@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C37697_2           -            810 RNA_pol_Rpb1_2       PF00623.15   166   1.3e-38  123.2   0.0   1   1     2e-39     4e-38  121.6   0.0    72   166    21   115     1   115 0.87 # 646 # 3075 # 1 # ID=2_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+S0C37697_2           -            810 RNA_pol_Rpb1_3       PF04983.13   158   1.3e-30   96.9   0.0   1   1   1.4e-31   2.7e-30   95.8   0.0     1   158   118   273   118   273 0.96 # 646 # 3075 # 1 # ID=2_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+S0C37697_2           -            810 RNA_pol_Rpb1_4       PF05000.12   108   1.6e-22   70.0   0.3   1   1   1.7e-23   3.5e-22   68.9   0.3     2   107   303   392   302   393 0.82 # 646 # 3075 # 1 # ID=2_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+S0C37697_1           -            198 RNA_pol_Rpb1_1       PF04997.7    337   4.7e-64  207.3   0.5   1   1   2.8e-65   5.6e-64  207.0   0.5   168   337    18   186     6   186 0.94 # 2 # 595 # 1 # ID=2_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.470
+S0C37697_2           -            810 RNA_pol_Rpb1_5       PF04998.12   277   2.4e-61  198.0   0.1   1   1   1.9e-62   3.9e-61  197.3   0.1     1   151   395   640   395   768 0.89 # 646 # 3075 # 1 # ID=2_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/3635bbb9-3d6b-47fc-a027-be9bddc84dd8
+# Target file:     pmccaffrey6/bins/S0CS0C5708/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C5708/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/3635bbb9-3d6b-47fc-a027-be9bddc84dd8 pmccaffrey6/bins/S0CS0C5708/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:33 2021
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C23408_7           -            149 KAP_NTPase           PF07693.9    325   4.2e-05   13.3   0.0   1   1   1.9e-06   4.2e-05   13.3   0.0    38   120     3    84     1   135 0.81 # 5804 # 6250 # 1 # ID=1_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.445
+S0C23408_17          -            367 ADH_zinc_N           PF00107.21   130   2.2e-14   43.9   0.0   1   1   2.7e-15   5.8e-14   42.5   0.0     3   111   169   279   167   281 0.91 # 12834 # 13934 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.449
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/139a9897-c790-4ea4-a675-367d633e06eb
+# Target file:     pmccaffrey6/bins/S0CS0C23408/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C23408/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/139a9897-c790-4ea4-a675-367d633e06eb pmccaffrey6/bins/S0CS0C23408/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:23:57 2021
+# [ok]

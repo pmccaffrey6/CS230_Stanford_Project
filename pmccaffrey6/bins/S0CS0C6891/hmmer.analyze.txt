@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C6891_4            -             59 AAA_3                PF07726.6    131   1.6e-07   20.7   0.1   1   1   2.3e-08   2.3e-07   20.1   0.1     1    24    35    58    35    59 0.95 # 3383 # 3559 # 1 # ID=1_4;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.576
+S0C10029_3           -           1032 tRNA_anti-codon      PF01336.20    75   4.7e-11   32.2   0.1   1   1   9.2e-12   9.2e-11   31.2   0.1     2    74   942  1015   941  1016 0.92 # 1974 # 5069 # 1 # ID=2_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+S0C6891_4            -             59 RuvB_N               PF05496.7    234   5.6e-06   15.1   0.1   1   1   5.6e-07   5.6e-06   15.1   0.1    51    75    34    58    13    59 0.89 # 3383 # 3559 # 1 # ID=1_4;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.576
+S0C6891_1            -            645 ETF                  PF01012.16   164     8e-05   12.1   4.4   1   2   7.7e-05   0.00077    8.9   0.4    10    66    42    95    35   114 0.81 # 1 # 1935 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.661
+S0C6891_1            -            645 ETF                  PF01012.16   164     8e-05   12.1   4.4   2   2    0.0023     0.023    4.0   0.4    64   119   371   428   367   435 0.89 # 1 # 1935 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.661
+S0C6891_4            -             59 AAA_33               PF13671.1    143   8.8e-05   12.1   0.0   1   1   1.1e-05   0.00011   11.7   0.0     7    24    41    58    36    59 0.88 # 3383 # 3559 # 1 # ID=1_4;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.576
+S0C6891_4            -             59 AAA_17               PF13207.1    121   2.6e-05   14.7   0.0   1   1   3.7e-06   3.7e-05   14.3   0.0     8    25    42    59    36    59 0.92 # 3383 # 3559 # 1 # ID=1_4;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.576
+S0C6891_4            -             59 AAA                  PF00004.24   132   6.5e-05   12.8   0.0   1   1   8.8e-06   8.8e-05   12.4   0.0     6    23    41    58    36    59 0.86 # 3383 # 3559 # 1 # ID=1_4;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.576
+S0C6891_4            -             59 Mg_chelatase         PF01078.16   207   2.3e-07   19.8   0.5   1   1   2.5e-08   2.5e-07   19.7   0.5     5    46    16    57    12    59 0.92 # 3383 # 3559 # 1 # ID=1_4;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.576
+S0C6891_1            -            645 Usp                  PF00582.21   140   7.4e-18   54.8   3.8   1   1   7.4e-19   7.4e-18   54.8   3.8     3   131     4   116     3   119 0.97 # 1 # 1935 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.661
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/53d70f96-f728-464f-a15e-4dba654309d5
+# Target file:     pmccaffrey6/bins/S0CS0C6891/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C6891/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/53d70f96-f728-464f-a15e-4dba654309d5 pmccaffrey6/bins/S0CS0C6891/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:36 2021
+# [ok]

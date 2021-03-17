@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C21655_2           -            447 AAA_5                PF07728.9    139   1.7e-07   21.2   0.0   1   1   2.5e-08   3.5e-07   20.2   0.0     4   105   162   268   159   291 0.78 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 Sigma54_activat      PF00158.21   168   1.8e-70  225.9   0.0   1   1   2.2e-71     3e-70  225.1   0.0     1   167   136   302   136   303 0.99 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 AAA_22               PF13401.1    131     2e-05   14.9   0.1   1   3   5.7e-05   0.00079    9.7   0.0     3    31   156   184   154   204 0.80 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 AAA_22               PF13401.1    131     2e-05   14.9   0.1   2   3     0.089       1.2   -0.6   0.0    87   112   228   253   216   268 0.71 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 AAA_22               PF13401.1    131     2e-05   14.9   0.1   3   3     0.037      0.51    0.6   0.1    37    84   296   345   273   417 0.73 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 AAA                  PF00004.24   132   3.2e-05   14.3   0.0   1   1   5.1e-06   7.1e-05   13.2   0.0     1   111   160   278   160   297 0.64 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 Sigma54_activ_2      PF14532.1    138   6.4e-32  100.6   0.0   1   1   2.3e-32   3.2e-31   98.4   0.0     1   138   137   307   137   307 0.90 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 Mg_chelatase         PF01078.16   207   2.4e-06   16.9   0.0   1   2     0.011      0.16    1.2   0.0    25    43   160   178   153   187 0.84 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 Mg_chelatase         PF01078.16   207   2.4e-06   16.9   0.0   2   2   2.7e-06   3.8e-05   13.0   0.0    93   135   215   257   208   285 0.82 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 AAA_16               PF13191.1    185   5.9e-05   13.2   5.1   1   2   3.8e-05   0.00053   10.1   0.1    21    62   156   195   141   311 0.69 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C21655_2           -            447 AAA_16               PF13191.1    185   5.9e-05   13.2   5.1   2   2    0.0047     0.065    3.3   1.9    40   146   317   440   316   445 0.69 # 765 # 2105 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.614
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/2e46a5d4-083f-4456-9144-6fcaddeadc5d
+# Target file:     pmccaffrey6/bins/S0CS0C746/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C746/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/2e46a5d4-083f-4456-9144-6fcaddeadc5d pmccaffrey6/bins/S0CS0C746/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:36 2021
+# [ok]

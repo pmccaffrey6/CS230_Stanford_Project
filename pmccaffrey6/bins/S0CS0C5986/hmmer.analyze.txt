@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C5986_2            -             73 CSD                  PF00313.17    66   2.6e-19   59.5   0.3   1   1   1.4e-20   2.9e-19   59.4   0.3     2    62     3    63     2    67 0.97 # 1137 # 1355 # 1 # ID=1_2;partial=00;start_type=TTG;rbs_motif=TTA;rbs_spacer=13bp;gc_cont=0.388
+S0C5986_12           -            261 NAD_binding_10       PF13460.1    183   0.00011   12.9   0.1   1   1   1.7e-05   0.00033   11.3   0.1     3    59    24    86    23    90 0.83 # 7470 # 8252 # -1 # ID=1_12;partial=00;start_type=GTG;rbs_motif=TACAA;rbs_spacer=15bp;gc_cont=0.443
+S0C5986_12           -            261 KR                   PF08659.5    181   1.7e-15   47.7   0.2   1   1   1.3e-16   2.7e-15   47.1   0.2     3   176    22   198    21   202 0.84 # 7470 # 8252 # -1 # ID=1_12;partial=00;start_type=GTG;rbs_motif=TACAA;rbs_spacer=15bp;gc_cont=0.443
+S0C5986_16           -            113 Arginosuc_synth      PF00764.14   388   3.1e-05   13.7   0.1   1   1   1.6e-06   3.3e-05   13.6   0.1     2    33    11    41    10    88 0.64 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_12           -            261 3Beta_HSD            PF01073.14   280   1.1e-05   14.8   0.8   1   1   7.8e-07   1.6e-05   14.3   0.6     1    66    23    87    23   132 0.81 # 7470 # 8252 # -1 # ID=1_12;partial=00;start_type=GTG;rbs_motif=TACAA;rbs_spacer=15bp;gc_cont=0.443
+S0C5986_12           -            261 adh_short_C2         PF13561.1    241   1.6e-35  113.6   0.0   1   1   9.3e-37   1.9e-35  113.4   0.0     6   241    29   258    26   258 0.94 # 7470 # 8252 # -1 # ID=1_12;partial=00;start_type=GTG;rbs_motif=TACAA;rbs_spacer=15bp;gc_cont=0.443
+S0C5986_16           -            113 NAD_synthase         PF02540.12   242   3.4e-11   33.1   0.0   1   1   2.2e-12   4.4e-11   32.7   0.0    15    84     3    78     1    96 0.75 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_12           -            261 adh_short            PF00106.20   167     6e-37  117.7   0.5   1   1   3.9e-38   7.8e-37  117.4   0.5     1   166    20   185    20   186 0.94 # 7470 # 8252 # -1 # ID=1_12;partial=00;start_type=GTG;rbs_motif=TACAA;rbs_spacer=15bp;gc_cont=0.443
+S0C5986_16           -            113 Asn_synthase         PF00733.16   255     2e-12   37.7   0.0   1   1     1e-13   2.1e-12   37.7   0.0    16   117     5   108     1   112 0.91 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_12           -            261 Epimerase            PF01370.16   236     6e-06   16.4   0.3   1   1   6.8e-07   1.4e-05   15.3   0.3     2    96    23   125    22   195 0.69 # 7470 # 8252 # -1 # ID=1_12;partial=00;start_type=GTG;rbs_motif=TACAA;rbs_spacer=15bp;gc_cont=0.443
+S0C5986_16           -            113 TIGR02432            TIGR02432    189   2.7e-06   17.7   0.0   1   1   1.7e-07   3.4e-06   17.4   0.0     1    66     8    75     8    90 0.66 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_16           -            113 QueC                 PF06508.8    210   7.3e-07   19.3   0.1   1   1   4.2e-08   8.3e-07   19.1   0.1     2    31     9    38     8    74 0.83 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_16           -            113 ATP_bind_3           PF01171.15   182   2.4e-06   17.8   0.0   1   1   1.6e-07   3.2e-06   17.4   0.0     2    67     9    76     8    87 0.71 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_17           -            275 tRNA_Me_trans        PF03054.11   356  5.3e-101  328.2   0.0   1   1  5.9e-102  5.9e-101  328.1   0.0    97   356     2   261     1   261 0.98 # 10176 # 11000 # 1 # ID=1_17;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.444
+S0C5986_16           -            113 tRNA_Me_trans        PF03054.11   356   5.7e-39  124.2   0.2   1   1   7.1e-40   7.1e-39  123.9   0.2     2    90     8    95     7    98 0.97 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+S0C5986_16           -            113 ThiI                 PF02568.9    197   1.8e-09   27.9   0.0   1   1   9.6e-11   1.9e-09   27.8   0.0     2    74     5    77     4   109 0.77 # 9877 # 10215 # 1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.434
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/1a94df8c-164d-4e5e-9944-65eaf670aaea
+# Target file:     pmccaffrey6/bins/S0CS0C5986/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C5986/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/1a94df8c-164d-4e5e-9944-65eaf670aaea pmccaffrey6/bins/S0CS0C5986/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:34 2021
+# [ok]

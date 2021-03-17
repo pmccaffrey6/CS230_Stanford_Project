@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/bd3c9d30-3a5d-4c24-96e8-cad2f8035e57
+# Target file:     pmccaffrey6/bins/S0CS0C21052/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C21052/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/bd3c9d30-3a5d-4c24-96e8-cad2f8035e57 pmccaffrey6/bins/S0CS0C21052/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:23:55 2021
+# [ok]

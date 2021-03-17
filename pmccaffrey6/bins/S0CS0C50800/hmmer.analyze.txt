@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C9189_3            -            145 SMC_N                PF02463.14   220   4.5e-07   20.4   0.0   1   1   1.9e-08   5.5e-07   20.1   0.0   113   211    31   133    17   137 0.84 # 2696 # 3130 # -1 # ID=7_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+S0C9189_3            -            145 AAA_21               PF13304.1    303   5.4e-09   27.5   0.0   1   1     2e-10   5.7e-09   27.4   0.0   234   300    58   122    21   124 0.92 # 2696 # 3130 # -1 # ID=7_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+S0C9189_3            -            145 SbcCD_C              PF13558.1     90   2.2e-05   15.6   0.2   1   1   9.5e-06   0.00028   12.0   0.2    26    88    54   103    32   105 0.76 # 2696 # 3130 # -1 # ID=7_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+S0C9189_3            -            145 ABC_tran             PF00005.22   137   3.3e-17   54.3   0.0   1   1   1.5e-18   4.3e-17   53.9   0.0    59   136     4    88     1    89 0.86 # 2696 # 3130 # -1 # ID=7_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/9b7ba80c-3dd8-4f6e-a86f-bbeb71575076
+# Target file:     pmccaffrey6/bins/S0CS0C50800/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C50800/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/9b7ba80c-3dd8-4f6e-a86f-bbeb71575076 pmccaffrey6/bins/S0CS0C50800/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:32 2021
+# [ok]

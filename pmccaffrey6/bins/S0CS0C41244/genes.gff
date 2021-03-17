@@ -1,0 +1,33 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=9669;seqhdr="S0C41244"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="19|Erythrobacter_litoralis_HTCC2594|B|63.1|11|1";gc_cont=63.10;transl_table=11;uses_sd=1
+S0C41244	Prodigal_v2.6.3	CDS	2	910	109.6	-	0	ID=1_1;partial=10;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.606;conf=100.00;score=110.29;cscore=108.00;sscore=2.29;rscore=7.85;uscore=-1.38;tscore=-4.87;
+S0C41244	Prodigal_v2.6.3	CDS	965	3313	320.6	-	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.642;conf=99.99;score=321.73;cscore=321.66;sscore=0.07;rscore=-4.72;uscore=-0.02;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	3297	3911	71.2	-	0	ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.587;conf=100.00;score=72.46;cscore=63.52;sscore=8.94;rscore=2.03;uscore=1.97;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	3908	4357	72.9	-	0	ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.564;conf=100.00;score=74.16;cscore=61.34;sscore=12.83;rscore=8.08;uscore=-0.12;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	4347	5894	208.5	-	0	ID=1_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.639;conf=99.99;score=208.55;cscore=203.64;sscore=4.91;rscore=2.03;uscore=-0.76;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	5875	6822	145.3	-	0	ID=1_6;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.633;conf=100.00;score=146.59;cscore=135.04;sscore=11.56;rscore=5.51;uscore=1.10;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	6819	7553	90.0	-	0	ID=1_7;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.622;conf=100.00;score=91.25;cscore=86.64;sscore=4.61;rscore=-0.69;uscore=0.41;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	7546	9237	193.5	-	0	ID=1_8;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.648;conf=99.99;score=194.74;cscore=191.42;sscore=3.32;rscore=-0.69;uscore=-0.90;tscore=3.65;
+S0C41244	Prodigal_v2.6.3	CDS	9239	9667	57.3	-	0	ID=1_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.622;conf=100.00;score=57.28;cscore=54.06;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+# Sequence Data: seqnum=2;seqlen=3533;seqhdr="S0C13615"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+S0C13615	Prodigal_v2.6.3	CDS	1	1893	258.6	-	0	ID=2_1;partial=10;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.616;conf=99.99;score=262.15;cscore=254.20;sscore=7.95;rscore=10.97;uscore=-2.23;tscore=-4.32;
+S0C13615	Prodigal_v2.6.3	CDS	1890	3203	173.0	-	0	ID=2_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.652;conf=100.00;score=174.18;cscore=163.18;sscore=11.00;rscore=8.92;uscore=-2.95;tscore=3.83;
+S0C13615	Prodigal_v2.6.3	CDS	3210	3533	29.9	-	0	ID=2_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.593;conf=99.90;score=29.95;cscore=26.73;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+# Sequence Data: seqnum=3;seqlen=2403;seqhdr="S0C32045"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="10|Burkholderia_rhizoxinica_HKI_454|B|59.7|11|1";gc_cont=59.70;transl_table=11;uses_sd=1
+S0C32045	Prodigal_v2.6.3	CDS	1	369	49.8	+	0	ID=3_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656;conf=100.00;score=49.84;cscore=46.62;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+S0C32045	Prodigal_v2.6.3	CDS	423	1340	120.1	-	0	ID=3_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.620;conf=100.00;score=119.48;cscore=115.08;sscore=4.41;rscore=9.94;uscore=2.51;tscore=-7.39;
+S0C32045	Prodigal_v2.6.3	CDS	1447	2193	95.5	+	0	ID=3_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.606;conf=100.00;score=95.52;cscore=75.86;sscore=19.66;rscore=13.08;uscore=1.74;tscore=4.85;
+# Sequence Data: seqnum=4;seqlen=2288;seqhdr="S0C37268"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="10|Burkholderia_rhizoxinica_HKI_454|B|59.7|11|1";gc_cont=59.70;transl_table=11;uses_sd=1
+S0C37268	Prodigal_v2.6.3	CDS	2	526	51.5	+	0	ID=4_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.629;conf=100.00;score=51.54;cscore=48.32;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+S0C37268	Prodigal_v2.6.3	CDS	526	1092	75.1	+	0	ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614;conf=100.00;score=77.98;cscore=61.91;sscore=16.06;rscore=9.94;uscore=-1.64;tscore=4.85;
+S0C37268	Prodigal_v2.6.3	CDS	1083	1832	74.1	+	0	ID=4_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.647;conf=100.00;score=75.29;cscore=70.71;sscore=4.58;rscore=-0.01;uscore=-1.48;tscore=4.85;
+S0C37268	Prodigal_v2.6.3	CDS	1987	2286	40.6	+	0	ID=4_4;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.617;conf=99.99;score=40.64;cscore=34.32;sscore=6.32;rscore=1.49;uscore=-0.02;tscore=4.85;
+# Sequence Data: seqnum=5;seqlen=2168;seqhdr="S0C44016"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+S0C44016	Prodigal_v2.6.3	CDS	2	115	23.2	-	0	ID=5_1;partial=10;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.553;conf=99.52;score=23.23;cscore=8.42;sscore=14.81;rscore=8.62;uscore=2.36;tscore=3.83;
+S0C44016	Prodigal_v2.6.3	CDS	174	587	56.0	-	0	ID=5_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.585;conf=100.00;score=55.33;cscore=40.29;sscore=15.04;rscore=8.92;uscore=2.95;tscore=3.83;
+S0C44016	Prodigal_v2.6.3	CDS	966	2168	195.6	+	0	ID=5_3;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.651;conf=99.99;score=195.60;cscore=180.61;sscore=14.99;rscore=8.92;uscore=2.24;tscore=3.83;

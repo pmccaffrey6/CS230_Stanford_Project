@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C37268_2           -            189 SMC_N                PF02463.14   220   3.8e-05   14.0   0.0   1   1   1.9e-06     5e-05   13.6   0.0    27    65     6    39     2   114 0.80 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C37268_2           -            189 AAA_30               PF13604.1    196   4.1e-06   17.5   0.0   1   1   3.2e-07   8.4e-06   16.5   0.0    19    82     4    64     2    75 0.79 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C39274_3           -            258 KR                   PF08659.5    181   3.1e-12   37.5   4.1   1   1   1.8e-13   4.7e-12   36.9   4.1     3   155     9   159     8   186 0.87 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C39274_3           -            258 3Beta_HSD            PF01073.14   280   1.2e-06   18.3   0.1   1   1     7e-08   1.8e-06   17.8   0.1     1   107    10   126    10   129 0.80 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C37268_2           -            189 AAA_18               PF13238.1    129   1.7e-11   35.5   0.0   1   1   1.6e-12     4e-11   34.4   0.0     1   116     6   136     6   149 0.83 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C39274_3           -            258 adh_short_C2         PF13561.1    241   1.4e-24   78.1   1.3   1   1   8.3e-26   2.2e-24   77.5   1.3     5   239    15   253    13   254 0.92 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C37268_2           -            189 AAA_33               PF13671.1    143   2.2e-09   28.4   2.2   1   1   1.9e-10   4.9e-09   27.2   2.2     1   133     5   147     5   154 0.66 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C39274_3           -            258 GFO_IDH_MocA         PF01408.17   120   0.00024   12.6   0.8   1   1   2.5e-05   0.00064   11.3   0.2     5    73    11    77     7    90 0.79 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C39274_3           -            258 adh_short            PF00106.20   167     1e-31  101.1   7.4   1   1   5.7e-33   1.5e-31  100.6   7.4     1   162     7   167     7   171 0.90 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C37268_2           -            189 AAA_17               PF13207.1    121   3.7e-06   18.8   0.0   1   1     4e-07     1e-05   17.4   0.0     2   111     6   133     5   153 0.52 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C39274_3           -            258 Epimerase            PF01370.16   236   4.9e-07   20.4   0.7   1   1   3.4e-08   8.9e-07   19.5   0.7     1   108     9   127     9   190 0.85 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C39274_3           -            258 Saccharop_dh         PF03435.13   386   1.9e-07   21.3   0.8   1   2   1.7e-08   4.5e-07   20.1   0.6     8    88    17   101    10   128 0.86 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C39274_3           -            258 Saccharop_dh         PF03435.13   386   1.9e-07   21.3   0.8   2   2     0.054       1.4   -1.3   0.0    36    75   123   164   108   173 0.79 # 2052 # 2825 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+S0C37268_2           -            189 Guanylate_kin        PF00625.16   183   6.3e-08   23.2   0.0   1   1   2.8e-09   7.2e-08   23.0   0.0     2   149     3   146     2   175 0.91 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C37268_2           -            189 TIGR03263            TIGR03263    180   8.8e-16   48.7   0.0   1   1   4.4e-17   1.1e-15   48.4   0.0     1   148     3   147     3   155 0.88 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C37268_2           -            189 AAA_29               PF13555.1     62   6.3e-06   16.8   0.0   1   1     5e-07   1.3e-05   15.7   0.0    26    44     6    24     1    34 0.84 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+S0C37268_2           -            189 AAA_16               PF13191.1    185   1.1e-07   23.0   2.8   1   1   3.1e-08   8.1e-07   20.2   2.8    24   107     3    92     2   187 0.67 # 526 # 1092 # 1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/6f55abcb-261d-41b0-8588-609b713ba0dd
+# Target file:     pmccaffrey6/bins/S0CS0C3442/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C3442/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/6f55abcb-261d-41b0-8588-609b713ba0dd pmccaffrey6/bins/S0CS0C3442/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:14 2021
+# [ok]

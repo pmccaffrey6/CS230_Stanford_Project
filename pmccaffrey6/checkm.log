@@ -1,0 +1,35 @@
+[2021-03-15 23:14:25] INFO: CheckM v1.1.3
+[2021-03-15 23:14:25] INFO: checkm taxonomy_wf -t 32 -x fna genus Escherichia,Vibrio,Bacteroides /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project/example_input_data/new_simulations/complexity_sim_10_genera_50_genomes/2021.03.14_08.23.34_sample_0/dvae_bins_clean pmccaffrey6
+[2021-03-15 23:14:25] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2021-03-15 23:14:28] ERROR: Unrecognized taxon: Escherichia,Vibrio,Bacteroides (in rank genus): 
+[2021-03-15 23:14:28] INFO: { Current stage: 0:00:02.753 || Total: 0:00:02.753 }
+[2021-03-15 23:14:28] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2021-03-15 23:14:28] INFO: Identifying marker genes in 183 bins with 32 threads:
+[2021-03-15 23:15:09] INFO: CheckM v1.1.3
+[2021-03-15 23:15:09] INFO: checkm taxonomy_wf -t 32 -x fna genus Escherichia Vibrio Bacteroides /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project/example_input_data/new_simulations/complexity_sim_10_genera_50_genomes/2021.03.14_08.23.34_sample_0/dvae_bins_clean pmccaffrey6
+[2021-03-15 23:15:09] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2021-03-15 23:15:12] ERROR: Unrecognized taxon: Escherichia Vibrio Bacteroides (in rank genus): 
+[2021-03-15 23:15:12] INFO: { Current stage: 0:00:02.770 || Total: 0:00:02.770 }
+[2021-03-15 23:15:12] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2021-03-15 23:15:12] INFO: Identifying marker genes in 183 bins with 32 threads:
+[2021-03-15 23:23:35] INFO: CheckM v1.1.3
+[2021-03-15 23:23:35] INFO: checkm taxonomy_wf -t 32 -x fna domain Bacteria /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project/example_input_data/new_simulations/complexity_sim_10_genera_50_genomes/2021.03.14_08.23.34_sample_0/dvae_bins_clean pmccaffrey6
+[2021-03-15 23:23:35] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2021-03-15 23:23:38] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2021-03-15 23:23:38] INFO: Marker set inferred from 5449 reference genomes.
+[2021-03-15 23:23:38] INFO: Marker set written to: pmccaffrey6/Bacteria.ms
+[2021-03-15 23:23:38] INFO: { Current stage: 0:00:02.757 || Total: 0:00:02.757 }
+[2021-03-15 23:23:38] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2021-03-15 23:23:38] INFO: Identifying marker genes in 183 bins with 32 threads:
+[2021-03-15 23:25:11] INFO: Saving HMM info to file.
+[2021-03-15 23:25:12] INFO: { Current stage: 0:01:33.963 || Total: 0:01:36.720 }
+[2021-03-15 23:25:12] INFO: Parsing HMM hits to marker genes:
+[2021-03-15 23:25:17] INFO: Aligning marker genes with multiple hits in a single bin:
+[2021-03-15 23:25:26] INFO: { Current stage: 0:00:13.562 || Total: 0:01:50.283 }
+[2021-03-15 23:25:26] INFO: Calculating genome statistics for 183 bins with 32 threads:
+[2021-03-15 23:25:26] INFO: { Current stage: 0:00:00.294 || Total: 0:01:50.578 }
+[2021-03-15 23:25:26] INFO: [CheckM - qa] Tabulating genome statistics.
+[2021-03-15 23:25:26] INFO: Calculating AAI between multi-copy marker genes.
+[2021-03-15 23:25:26] INFO: Reading HMM info from file.
+[2021-03-15 23:25:26] INFO: Parsing HMM hits to marker genes:
+[2021-03-15 23:25:32] INFO: { Current stage: 0:00:06.237 || Total: 0:01:56.816 }

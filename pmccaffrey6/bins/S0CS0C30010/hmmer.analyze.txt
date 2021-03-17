@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C29654_2           -            411 ATP-synt_ab          PF00006.20   215     5e-68  218.8   0.0   1   1   5.3e-69   6.8e-68  218.3   0.0     1   215    79   292    79   292 0.97 # 1124 # 2356 # 1 # ID=3_2;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.577
+S0C27152_1           -            290 SMC_N                PF02463.14   220   5.1e-07   19.1   0.0   1   2    0.0028     0.036    3.2   0.0    25    39    42    56    22    62 0.78 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 SMC_N                PF02463.14   220   5.1e-07   19.1   0.0   2   2   1.5e-06     2e-05   13.9   0.0   128   213    94   220    76   226 0.65 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 AAA_21               PF13304.1    303   3.3e-05   13.9   0.1   1   2    0.0029     0.037    3.9   0.2     4    21    46    63    43    91 0.81 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 AAA_21               PF13304.1    303   3.3e-05   13.9   0.1   2   2   0.00017    0.0022    7.9   0.0   231   298   140   205   105   207 0.80 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 AAA_33               PF13671.1    143   0.00011   12.1   0.1   1   2   3.4e-05   0.00044   10.2   0.0     3    20    45    62    43    95 0.87 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 AAA_33               PF13671.1    143   0.00011   12.1   0.1   2   2      0.07      0.91   -0.6   0.0    80    83   180   183   103   217 0.58 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 AAA_22               PF13401.1    131   1.4e-06   18.6   0.2   1   1     4e-07   5.2e-06   16.7   0.2     3    68    40   136    38   210 0.54 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 ABC_tran             PF00005.22   137   5.6e-37  117.2   0.0   1   1   8.3e-38   1.1e-36  116.2   0.0     2   136    32   173    31   174 0.92 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 AAA_25               PF13481.1    194   3.6e-06   16.5   1.0   1   1   1.8e-06   1.2e-05   14.8   0.0    23    59    28    69    10    92 0.71 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C29654_2           -            411 AAA_25               PF13481.1    194   2.4e-05   13.8   0.0   1   1   1.3e-05   8.4e-05   12.0   0.0    31    82    91   147    67   209 0.66 # 1124 # 2356 # 1 # ID=3_2;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.577
+S0C27152_1           -            290 AAA_29               PF13555.1     62   1.8e-05   14.4   0.1   1   1   2.7e-06   3.5e-05   13.4   0.1    18    39    37    57    30    61 0.82 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 FeoB_N               PF02421.13   156   6.2e-05   12.3   0.3   1   2     0.086       1.1   -1.5   0.0     4    24    45    65    43    69 0.83 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C27152_1           -            290 FeoB_N               PF02421.13   156   6.2e-05   12.3   0.3   2   2   1.4e-05   0.00019   10.8   0.1    91   148   156   209   152   214 0.85 # 2 # 871 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+S0C29654_2           -            411 RNA_helicase         PF00910.17   107   0.00014   12.1   0.0   1   1     2e-05   0.00026   11.2   0.0     3    45    98   151    96   155 0.79 # 1124 # 2356 # 1 # ID=3_2;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.577
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/20df2376-b524-4800-827b-ba8bf6f07ea3
+# Target file:     pmccaffrey6/bins/S0CS0C30010/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C30010/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/20df2376-b524-4800-827b-ba8bf6f07ea3 pmccaffrey6/bins/S0CS0C30010/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:11 2021
+# [ok]

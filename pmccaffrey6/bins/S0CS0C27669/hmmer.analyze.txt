@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C27669_8           -            241 Terminase_1          PF03354.10   477   5.6e-18   55.2   0.1   1   1   1.3e-18   9.2e-18   54.5   0.0     1   154    65   212    65   219 0.88 # 2432 # 3154 # 1 # ID=1_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.394
+S0C27669_9           -            221 Terminase_1          PF03354.10   477   7.1e-15   45.0   0.0   1   1   1.1e-15   7.9e-15   44.8   0.0   166   365     2   214     1   220 0.74 # 3103 # 3765 # 1 # ID=1_9;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.442
+S0C27669_10          -            118 Terminase_1          PF03354.10   477   8.9e-06   15.0   0.1   1   1   1.2e-06   9.1e-06   15.0   0.1   416   465    39    90     1    99 0.69 # 3768 # 4121 # 1 # ID=1_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.424
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/f13a6010-8813-4195-bf2b-ebfb502c910c
+# Target file:     pmccaffrey6/bins/S0CS0C27669/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C27669/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/f13a6010-8813-4195-bf2b-ebfb502c910c pmccaffrey6/bins/S0CS0C27669/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:05 2021
+# [ok]

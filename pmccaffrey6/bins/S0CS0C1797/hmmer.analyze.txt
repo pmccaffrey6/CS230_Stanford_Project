@@ -1,0 +1,31 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C1797_3            -            258 SMC_N                PF02463.14   220   1.9e-09   27.5   2.4   1   1   3.4e-09   6.1e-08   22.6   2.4    25   197    37   211    24   230 0.64 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_21               PF13304.1    303   1.7e-08   25.2   6.0   1   2   1.8e-05   0.00032   11.1   2.6     2    21    39    58    38    88 0.80 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_21               PF13304.1    303   1.7e-08   25.2   6.0   2   2   9.4e-07   1.7e-05   15.3   0.0   236   297   152   211   105   218 0.84 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 SbcCD_C              PF13558.1     90   6.8e-08   22.9   0.2   1   1   6.9e-08   1.2e-06   18.9   0.2    18    89   138   196   126   197 0.79 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_15               PF13175.1    415   9.8e-05   11.9   0.9   1   2   7.1e-05    0.0013    8.2   0.1    16    43    29    66    11   112 0.72 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_15               PF13175.1    415   9.8e-05   11.9   0.9   2   2    0.0034     0.062    2.7   0.1   371   410   170   211   130   213 0.86 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 DUF258               PF03193.11   161   9.1e-07   18.7   0.0   1   1     1e-07   1.9e-06   17.7   0.0    26    67    26    68     5    82 0.76 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_23               PF13476.1    202   2.2e-05   15.3   1.2   1   1   2.8e-06     5e-05   14.1   1.2    20    39    37    56    23    58 0.79 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 ABC_tran             PF00005.22   137   2.7e-30   96.0   0.1   1   1   2.8e-31     5e-30   95.1   0.0     2   137    27   181    26   181 0.86 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA                  PF00004.24   132   1.4e-05   15.8   0.3   1   1   8.5e-05    0.0015    9.2   0.3     3    54    41    94    39   225 0.67 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_25               PF13481.1    194   1.8e-05   14.6   0.2   1   1   2.9e-06   5.2e-05   13.2   0.2    30    65    33    76    15   255 0.78 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 MMR_HSR1             PF01926.18   116   9.7e-05   12.9   0.3   1   1   1.4e-05   0.00025   11.5   0.0     2    21    39    58    38   105 0.81 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_17           -            162 Usp                  PF00582.21   140   9.5e-29   90.9   0.0   1   1   6.7e-30   1.2e-28   90.6   0.0     2   140     5   147     4   147 0.96 # 15279 # 15764 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.430
+S0C1797_3            -            258 ABC_ATPase           PF09818.4    448   4.3e-05   12.6   0.6   1   2   0.00059     0.011    4.7   0.1   240   264    31    56    15    60 0.88 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 ABC_ATPase           PF09818.4    448   4.3e-05   12.6   0.6   2   2   0.00018    0.0033    6.4   0.0   317   363   147   193   130   219 0.82 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_29               PF13555.1     62   5.5e-06   16.4   0.0   1   1   8.1e-07   1.4e-05   15.1   0.0    23    40    36    53    24    56 0.82 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_10               PF12846.2    304   9.4e-06   15.6   1.3   1   2   8.5e-05    0.0015    8.4   0.6     5    32    40    67    37   165 0.86 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+S0C1797_3            -            258 AAA_10               PF12846.2    304   9.4e-06   15.6   1.3   2   2   0.00029    0.0053    6.6   0.0   217   270   167   220   126   251 0.83 # 2717 # 3490 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/d5c2f5a7-507e-402b-8adf-aa8f01958f6c
+# Target file:     pmccaffrey6/bins/S0CS0C1797/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C1797/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/d5c2f5a7-507e-402b-8adf-aa8f01958f6c pmccaffrey6/bins/S0CS0C1797/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:23:53 2021
+# [ok]

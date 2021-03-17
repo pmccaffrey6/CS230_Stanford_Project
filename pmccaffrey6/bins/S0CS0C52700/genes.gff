@@ -1,0 +1,17 @@
+##gff-version  3
+# Sequence Data: seqnum=1;seqlen=2598;seqhdr="S0C7304"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="19|Erythrobacter_litoralis_HTCC2594|B|63.1|11|1";gc_cont=63.10;transl_table=11;uses_sd=1
+S0C7304	Prodigal_v2.6.3	CDS	3	122	18.5	+	0	ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.567;conf=98.60;score=18.52;cscore=15.30;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+S0C7304	Prodigal_v2.6.3	CDS	119	1000	131.3	+	0	ID=1_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.619;conf=100.00;score=132.64;cscore=114.20;sscore=18.44;rscore=10.54;uscore=2.96;tscore=3.65;
+S0C7304	Prodigal_v2.6.3	CDS	1234	2598	183.4	-	0	ID=1_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621;conf=99.99;score=183.44;cscore=180.22;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+# Sequence Data: seqnum=2;seqlen=5115;seqhdr="S0C52700"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+S0C52700	Prodigal_v2.6.3	CDS	3	1010	126.9	-	0	ID=2_1;partial=10;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.612;conf=100.00;score=126.89;cscore=119.55;sscore=7.34;rscore=5.45;uscore=-1.94;tscore=3.83;
+S0C52700	Prodigal_v2.6.3	CDS	1080	3377	377.6	-	0	ID=2_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.588;conf=99.99;score=376.90;cscore=369.14;sscore=7.76;rscore=1.44;uscore=3.14;tscore=3.83;
+S0C52700	Prodigal_v2.6.3	CDS	3678	4394	64.2	+	0	ID=2_3;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.593;conf=100.00;score=64.17;cscore=56.83;sscore=7.34;rscore=10.97;uscore=3.62;tscore=-7.25;
+S0C52700	Prodigal_v2.6.3	CDS	4421	5038	80.0	+	0	ID=2_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.597;conf=100.00;score=81.00;cscore=74.75;sscore=6.24;rscore=1.44;uscore=-0.02;tscore=3.83;
+# Sequence Data: seqnum=3;seqlen=2811;seqhdr="S0C51539"
+# Model Data: version=Prodigal.v2.6.3;run_type=Metagenomic;model="25|Marinobacter_aquaeolei_VT8|B|57.3|11|1";gc_cont=57.30;transl_table=11;uses_sd=1
+S0C51539	Prodigal_v2.6.3	CDS	3	842	123.7	+	0	ID=3_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.615;conf=100.00;score=123.74;cscore=120.52;sscore=3.22;rscore=0.00;uscore=0.00;tscore=3.22;
+S0C51539	Prodigal_v2.6.3	CDS	842	2197	117.4	+	0	ID=3_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610;conf=100.00;score=126.42;cscore=121.30;sscore=5.12;rscore=-6.26;uscore=-1.45;tscore=3.83;
+S0C51539	Prodigal_v2.6.3	CDS	2355	2810	68.9	+	0	ID=3_3;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.577;conf=100.00;score=68.88;cscore=65.46;sscore=3.42;rscore=1.44;uscore=-1.85;tscore=3.83;

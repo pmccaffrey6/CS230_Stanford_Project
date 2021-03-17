@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C38838_5           -            210 CbiA                 PF01656.18   195     5e-30   94.9   0.0   1   1     3e-31   5.9e-30   94.7   0.0     1   167     4   205     4   209 0.84 # 2983 # 3612 # 1 # ID=6_5;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.644
+S0C38838_5           -            210 MobB                 PF03205.9    140   3.4e-08   23.9   0.0   1   2   9.1e-09   1.8e-07   21.6   0.0     8    37    10    39     3    74 0.79 # 2983 # 3612 # 1 # ID=6_5;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.644
+S0C38838_5           -            210 MobB                 PF03205.9    140   3.4e-08   23.9   0.0   2   2      0.04      0.79    0.1   0.0    77   107   105   140    69   156 0.62 # 2983 # 3612 # 1 # ID=6_5;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.644
+S0C19041_2           -            419 Mannitol_dh          PF01232.18   151   1.2e-31  100.4   0.0   1   1   1.1e-32   2.1e-31   99.5   0.0    46   151     1   117     1   117 0.98 # 1498 # 2754 # -1 # ID=7_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+S0C38838_5           -            210 AAA_26               PF13500.1    199   3.4e-20   63.1   0.0   1   1   2.2e-21   4.4e-20   62.7   0.0     2   169     3   198     2   205 0.84 # 2983 # 3612 # 1 # ID=6_5;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.644
+S0C9674_1            -            257 Methyltransf_26      PF13659.1    117   0.00018   12.2   0.0   1   1   1.4e-05   0.00028   11.6   0.0    21    78   123   219    81   241 0.76 # 3 # 773 # -1 # ID=5_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.604
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/d0899f79-3e1e-41cc-b27d-3ec39622b067
+# Target file:     pmccaffrey6/bins/S0CS0C9674/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C9674/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/d0899f79-3e1e-41cc-b27d-3ec39622b067 pmccaffrey6/bins/S0CS0C9674/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:37 2021
+# [ok]

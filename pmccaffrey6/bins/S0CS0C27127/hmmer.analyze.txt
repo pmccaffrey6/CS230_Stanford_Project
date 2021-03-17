@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C27127_18          -            139 ETF                  PF01012.16   164   0.00013   12.3   0.1   1   1   1.8e-05   0.00036   10.9   0.1    16   103     5   109     2   136 0.77 # 12095 # 12511 # -1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.384
+S0C27127_9           -            157 tRNA-synt_1d         PF00750.14   354   1.5e-14   44.1   0.1   1   1   2.6e-15   2.6e-14   43.3   0.0     2    53    94   146    93   149 0.95 # 4814 # 5284 # -1 # ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.374
+S0C27127_8           -            184 tRNA-synt_1d         PF00750.14   354   2.1e-09   27.2   0.1   1   1   2.8e-10   2.8e-09   26.8   0.1   299   352     2    54     1    56 0.93 # 3592 # 4143 # -1 # ID=1_8;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402
+S0C27127_16          -            627 Asn_synthase         PF00733.16   255   8.8e-64  206.0   0.0   1   1   6.1e-65   1.2e-63  205.5   0.0     3   255   239   540   237   540 0.94 # 9687 # 11567 # -1 # ID=1_16;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.412
+S0C27127_18          -            139 Usp                  PF00582.21   140   6.5e-23   72.1   0.0   1   1   4.1e-24   8.2e-23   71.8   0.0    13   139     4   133     2   134 0.91 # 12095 # 12511 # -1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.384
+S0C27127_15          -            129 Mur_ligase           PF01225.20    83   9.8e-05   13.1   0.0   1   1   8.2e-06   0.00016   12.4   0.0     4    82    33    99    30   100 0.84 # 9271 # 9657 # -1 # ID=1_15;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.382
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/1af1420d-c4d5-4221-8511-47ae4e03dee8
+# Target file:     pmccaffrey6/bins/S0CS0C27127/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C27127/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/1af1420d-c4d5-4221-8511-47ae4e03dee8 pmccaffrey6/bins/S0CS0C27127/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:04 2021
+# [ok]

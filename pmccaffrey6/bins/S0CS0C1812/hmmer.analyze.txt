@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C1812_3            -            212 CbiA                 PF01656.18   195   1.3e-13   40.5   2.4   1   1   1.6e-14   1.6e-13   40.1   2.4     3   157    41   210    39   211 0.72 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 SRP54                PF00448.17   196   2.4e-05   13.5   0.4   1   2   5.6e-05   0.00056    9.0   0.1     4    42    40    78    37   113 0.88 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 SRP54                PF00448.17   196   2.4e-05   13.5   0.4   2   2    0.0049     0.049    2.7   0.0    68   106   133   172   110   193 0.64 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 ResIII               PF04851.10   184   8.8e-05   12.0   0.0   1   3   0.00079    0.0079    5.7   0.0    31    56    43    71    11    81 0.80 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 ResIII               PF04851.10   184   8.8e-05   12.0   0.0   2   3     0.038      0.38    0.2   0.0   117   153   112   155    96   156 0.73 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 ResIII               PF04851.10   184   8.8e-05   12.0   0.0   3   3    0.0085     0.085    2.3   0.0    44    70   166   196   158   206 0.85 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 AAA_19               PF13245.1     76   5.3e-06   15.9   0.6   1   2   4.3e-06   4.3e-05   13.0   0.0    16    50    43    73    30    76 0.88 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 AAA_19               PF13245.1     76   5.3e-06   15.9   0.6   2   2     0.033      0.33    0.5   0.1    28    60   165   190   140   208 0.55 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 AAA_25               PF13481.1    194   1.1e-05   14.6   0.8   1   1   2.1e-06   2.1e-05   13.6   0.8    36   150    40   156    30   181 0.67 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 ArsA_ATPase          PF02374.10   305   6.9e-05   11.6   1.1   1   1     4e-05    0.0004    9.1   1.1     9   133    45   155    37   159 0.61 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 AAA_26               PF13500.1    199   1.8e-06   17.3   0.4   1   1   2.5e-07   2.5e-06   16.9   0.4     3   167    39   210    37   211 0.86 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 Methyltransf_24      PF13578.1    106     2e-05   15.1   0.1   1   1   4.1e-06   4.1e-05   14.1   0.1    44    83   123   162    46   179 0.68 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+S0C1812_3            -            212 AAA_31               PF13614.1    157   5.8e-22   68.0   0.0   1   1   7.9e-23   7.9e-22   67.5   0.0     4   156    40   187    37   188 0.88 # 3150 # 3785 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.481
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/eea4cc57-911e-4749-9028-03a25ab28e86
+# Target file:     pmccaffrey6/bins/S0CS0C1812/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C1812/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/eea4cc57-911e-4749-9028-03a25ab28e86 pmccaffrey6/bins/S0CS0C1812/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:23:55 2021
+# [ok]

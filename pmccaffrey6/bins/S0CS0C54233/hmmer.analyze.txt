@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C54233_11          -            205 Methyltransf_25      PF13649.1    101   9.4e-05   13.6   0.1   1   1   8.6e-06   0.00019   12.6   0.1    25    71    28    71    10   110 0.73 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_17          -            214 NAD_binding_10       PF13460.1    183   2.4e-40  129.3   0.1   1   1   1.2e-41   2.7e-40  129.1   0.1     1   182     4   188     4   189 0.95 # 11577 # 12218 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.433
+S0C54233_11          -            205 KR                   PF08659.5    181   1.6e-12   38.2   0.2   1   1   1.2e-13   2.7e-12   37.4   0.2     3   161     6   165     5   181 0.84 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_11          -            205 3HCDH_N              PF02737.13   180   3.8e-08   23.9   0.1   1   1   2.5e-09   5.4e-08   23.4   0.1     7   112    12   119     4   127 0.79 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_17          -            214 3Beta_HSD            PF01073.14   280   5.7e-05   12.6   0.1   1   1   5.6e-06   0.00012   11.5   0.1     2    72     6    72     5   113 0.71 # 11577 # 12218 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.433
+S0C54233_11          -            205 Ubie_methyltran      PF01209.13   233   0.00012   12.0   0.1   1   1   9.8e-06   0.00022   11.1   0.1    54   103     8    58     2    78 0.82 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_11          -            205 adh_short_C2         PF13561.1    241   1.3e-17   55.1   0.0   1   1   1.6e-18   1.7e-17   54.7   0.0     6   175    13   180    10   191 0.92 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_10          -             70 adh_short_C2         PF13561.1    241     1e-09   29.3   0.0   1   1   9.6e-11   1.1e-09   29.2   0.0   195   240    21    66    11    67 0.89 # 6160 # 6369 # -1 # ID=1_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.429
+S0C54233_11          -            205 Methyltransf_31      PF13847.1    152   8.3e-05   13.0   0.1   1   1   5.8e-06   0.00013   12.4   0.1    15    69    13    68     9   132 0.79 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_11          -            205 adh_short            PF00106.20   167   1.4e-30   97.2   0.2   1   1   1.4e-31   1.6e-30   97.0   0.2     1   166     4   171     4   172 0.95 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_17          -            214 adh_short            PF00106.20   167   0.00011   12.9   0.2   1   1   1.5e-05   0.00016   12.4   0.2     3    75     4    68     2   104 0.83 # 11577 # 12218 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.433
+S0C54233_17          -            214 Epimerase            PF01370.16   236   2.9e-07   20.9   0.0   1   1   4.4e-07   4.8e-06   16.9   0.0     1   148     4   138     4   151 0.77 # 11577 # 12218 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.433
+S0C54233_11          -            205 Epimerase            PF01370.16   236   8.3e-06   16.1   0.3   1   2   3.1e-06   3.4e-05   14.1   0.0     2    64     7    74     6   111 0.78 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_11          -            205 Epimerase            PF01370.16   236   8.3e-06   16.1   0.3   2   2     0.045      0.49    0.5   0.1   132   174   145   184   119   204 0.66 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_11          -            205 TrkA_N               PF02254.13   116   2.3e-05   15.2   0.0   1   1     2e-06   4.4e-05   14.3   0.0     2    52     7    64     6    74 0.79 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_11          -            205 Ldh_1_N              PF00056.18   141   0.00015   12.4   0.1   1   1   1.1e-05   0.00024   11.7   0.1     2    53     4    54     3    77 0.78 # 6321 # 6935 # -1 # ID=1_11;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.434
+S0C54233_17          -            214 NmrA                 PF05368.8    233   1.1e-12   38.4   0.0   1   1   1.4e-13     3e-12   37.0   0.0     1   143     4   150     4   199 0.75 # 11577 # 12218 # 1 # ID=1_17;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.433
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/47447579-45f7-4a09-bfa9-3274483bb46c
+# Target file:     pmccaffrey6/bins/S0CS0C54233/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C54233/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/47447579-45f7-4a09-bfa9-3274483bb46c pmccaffrey6/bins/S0CS0C54233/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:33 2021
+# [ok]

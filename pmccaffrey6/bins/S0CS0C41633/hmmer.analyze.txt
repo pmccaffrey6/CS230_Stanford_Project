@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C12129_4           -            222 NAD_binding_10       PF13460.1    183   2.5e-05   14.8   0.1   1   2   1.7e-05    0.0003   11.3   0.1     2    35     6    39     6    61 0.77 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+S0C12129_4           -            222 NAD_binding_10       PF13460.1    183   2.5e-05   14.8   0.1   2   2     0.014      0.26    1.7   0.0   119   146   151   185    63   211 0.71 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+S0C12129_4           -            222 KR                   PF08659.5    181   4.9e-14   42.9   0.1   1   1   4.5e-15   8.1e-14   42.1   0.1     4   167     6   170     4   181 0.83 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+S0C12129_4           -            222 adh_short_C2         PF13561.1    241   6.1e-14   42.8   0.0   1   1   4.4e-15   7.8e-14   42.4   0.0     5   188    11   192     9   213 0.92 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+S0C12129_4           -            222 Eno-Rase_NADH_b      PF12242.3     78   1.3e-06   18.7   0.1   1   1   1.5e-07   2.7e-06   17.7   0.1    42    73     5    35     2    38 0.80 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+S0C12129_4           -            222 adh_short            PF00106.20   167   1.4e-33  106.7   0.1   1   1   9.5e-35   1.7e-33  106.4   0.1     3   166     5   170     3   171 0.94 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+S0C12129_4           -            222 Epimerase            PF01370.16   236   3.3e-05   13.8   0.0   1   1     3e-06   5.3e-05   13.2   0.0     1   104     5   123     5   181 0.74 # 1502 # 2167 # 1 # ID=4_4;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/6db03e05-cbc9-40bc-bc03-b6e217ba1d35
+# Target file:     pmccaffrey6/bins/S0CS0C41633/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C41633/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/6db03e05-cbc9-40bc-bc03-b6e217ba1d35 pmccaffrey6/bins/S0CS0C41633/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:25 2021
+# [ok]

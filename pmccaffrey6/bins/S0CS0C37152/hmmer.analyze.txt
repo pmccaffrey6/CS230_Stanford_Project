@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C37152_4           -            399 T2SE                 PF00437.15   272   9.6e-05   11.5   0.0   1   1   1.1e-05   0.00016   10.8   0.0   126   155    39    68    13    73 0.79 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 DUF2075              PF09848.4    352   8.8e-95  307.7   0.0   1   1   6.8e-96     1e-94  307.5   0.0     2   352    42   386    41   386 0.97 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 NTPase_1             PF03266.10   168   0.00011   12.2   0.0   1   2   0.00025    0.0037    7.2   0.0     2    32    44    74    43    80 0.92 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 NTPase_1             PF03266.10   168   0.00011   12.2   0.0   2   2    0.0061     0.091    2.7   0.0    86   107   116   136    92   205 0.73 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 AAA_30               PF13604.1    196   5.3e-06   16.3   0.4   1   1   2.7e-06     4e-05   13.5   0.4    16    45    39    68    34   223 0.81 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_9           -            263 CoA_binding_3        PF13727.1    175    0.0013    8.8   0.0   1   3   8.5e-05    0.0013    8.8   0.0    86   121    45    80    22    90 0.83 # 9865 # 10653 # 1 # ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.471
+S0C37152_9           -            263 CoA_binding_3        PF13727.1    175    0.0013    8.8   0.0   2   3     0.067         1   -0.6   1.7    11    59   114   165   105   184 0.63 # 9865 # 10653 # 1 # ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.471
+S0C37152_9           -            263 CoA_binding_3        PF13727.1    175    0.0013    8.8   0.0   3   3     0.053       0.8   -0.3   3.9    26    67   164   209   140   217 0.50 # 9865 # 10653 # 1 # ID=1_9;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.471
+S0C37152_4           -            399 cobW                 PF02492.14   178   1.1e-05   15.1   0.0   1   1   1.3e-06     2e-05   14.3   0.0     3   127    44   189    42   216 0.71 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 AAA_22               PF13401.1    131   3.4e-07   20.7   0.0   1   1   8.4e-08   1.3e-06   18.9   0.0     4   128    41   184    37   187 0.59 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 AAA_29               PF13555.1     62   2.8e-06   17.1   0.0   1   1   4.5e-07   6.7e-06   15.9   0.0    24    44    42    62    25    70 0.74 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+S0C37152_4           -            399 AAA_16               PF13191.1    185   3.2e-07   20.7   0.0   1   1   4.5e-08   6.7e-07   19.6   0.0    18    54    35    71    20   103 0.81 # 5224 # 6420 # -1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.467
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/37ec112f-300f-418b-afc7-5929925e6ba4
+# Target file:     pmccaffrey6/bins/S0CS0C37152/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C37152/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/37ec112f-300f-418b-afc7-5929925e6ba4 pmccaffrey6/bins/S0CS0C37152/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:17 2021
+# [ok]

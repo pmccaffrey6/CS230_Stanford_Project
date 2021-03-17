@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C3949_13           -            185 3HCDH_N              PF02737.13   180   4.9e-06   16.7   0.1   1   1   4.2e-07   7.1e-06   16.2   0.1     1    44    14    57    14    98 0.74 # 8172 # 8726 # -1 # ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.501
+S0C3949_13           -            185 2-Hacid_dh_C         PF02826.14   178   5.2e-09   25.9   0.0   1   1   4.5e-10   7.6e-09   25.3   0.0    36   100    12    82     2   108 0.75 # 8172 # 8726 # -1 # ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.501
+S0C3949_12           -            181 FtsJ                 PF01728.14   181   5.5e-05   13.6   0.0   1   1   4.2e-06   7.1e-05   13.2   0.0    18    54    15    51     9   100 0.85 # 7594 # 8136 # -1 # ID=1_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.427
+S0C3949_13           -            185 NAD_binding_2        PF03446.10   163   1.3e-06   18.8   0.1   1   1   9.9e-08   1.7e-06   18.4   0.1     2    53    13    65    12    98 0.78 # 8172 # 8726 # -1 # ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.501
+S0C3949_13           -            185 XdhC_C               PF13478.1    136   5.6e-06   17.1   0.0   1   1   4.9e-07   8.4e-06   16.6   0.0     3    49    17    67    15   108 0.73 # 8172 # 8726 # -1 # ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.501
+S0C3949_13           -            185 F420_oxidored        PF03807.12    96   5.9e-05   13.9   0.1   1   1   6.6e-06   0.00011   13.1   0.1     1    60    14    69    14    96 0.78 # 8172 # 8726 # -1 # ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.501
+S0C3949_2            -            144 TIGR00460            TIGR00460    315   8.7e-10   28.2   0.0   1   1   5.6e-11   9.6e-10   28.1   0.0    71   136    76   141    44   143 0.87 # 793 # 1224 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.438
+S0C3949_13           -            185 Pyr_redox            PF00070.22    80   7.1e-05   13.7   0.0   1   1   7.3e-06   0.00012   12.9   0.0     2    33    15    46    14    70 0.88 # 8172 # 8726 # -1 # ID=1_13;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.501
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/00a0a5ac-11a9-4f5d-ae63-513ce2c0ee5a
+# Target file:     pmccaffrey6/bins/S0CS0C3949/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C3949/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/00a0a5ac-11a9-4f5d-ae63-513ce2c0ee5a pmccaffrey6/bins/S0CS0C3949/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:20 2021
+# [ok]

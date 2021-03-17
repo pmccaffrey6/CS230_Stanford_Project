@@ -1,0 +1,30 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+S0C25184_1           -            670 AAA_30               PF13604.1    196   9.7e-36  113.0   0.0   1   1   1.8e-36   2.1e-35  111.9   0.0     2   175   149   329   148   333 0.88 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 Helicase_RecD        PF05127.9    177   6.4e-06   15.8   0.0   1   1   1.9e-06   2.3e-05   14.0   0.0     1   113   167   268   167   280 0.79 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 PhoH                 PF02562.11   205   4.6e-08   22.4   0.4   1   2   3.8e-08   4.5e-07   19.2   0.0     5    62   149   205   147   227 0.74 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 PhoH                 PF02562.11   205   4.6e-08   22.4   0.4   2   2     0.035      0.43   -0.4   0.0   121   157   247   284   241   306 0.85 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 AAA_11               PF13086.1    236   8.1e-10   28.5   0.0   1   2   2.4e-05   0.00029   10.3   0.0     2    67   149   206   148   222 0.70 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 AAA_11               PF13086.1    236   8.1e-10   28.5   0.0   2   2   6.3e-07   7.6e-06   15.5   0.0   192   232   245   288   231   289 0.85 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 AAA_22               PF13401.1    131   2.3e-06   17.7   0.1   1   1   2.1e-06   2.6e-05   14.3   0.0     4   123   163   280   158   286 0.57 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 AAA_19               PF13245.1     76   6.6e-16   47.9   1.3   1   1   8.2e-17   9.9e-16   47.3   0.3     4    75   158   222   154   223 0.83 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 UPF0079              PF02367.12   123   0.00011   11.8   0.0   1   1   1.7e-05   0.00021   10.9   0.0    10   107   158   264   151   275 0.73 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 PIF1                 PF05970.9    364   2.3e-09   26.5   0.0   1   1   4.8e-10   5.8e-09   25.1   0.0     2   157   149   289   148   323 0.78 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 AAA_25               PF13481.1    194   2.1e-06   17.2   0.2   1   2     0.064      0.77   -1.0   0.0    77   122   108   153   107   162 0.74 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 AAA_25               PF13481.1    194   2.1e-06   17.2   0.2   2   2   5.7e-07   6.9e-06   15.5   0.2    23   137   154   269   124   280 0.72 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 Viral_helicase1      PF01443.13   234   3.5e-08   23.1   0.1   1   2    0.0033      0.04    3.3   0.0    61   103   244   288   166   313 0.68 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 Viral_helicase1      PF01443.13   234   3.5e-08   23.1   0.1   2   2     3e-07   3.6e-06   16.5   0.0   184   233   521   566   457   567 0.85 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_12          -            128 N6_Mtase             PF02384.11   311   1.5e-25   79.7   1.5   1   1   2.1e-26   2.5e-25   79.0   1.5   238   309     3    73     1    75 0.95 # 13328 # 13711 # -1 # ID=1_12;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.385
+S0C25184_1           -            670 UvrD_C_2             PF13538.1    104   6.3e-17   51.6   0.1   1   1   2.1e-17   2.5e-16   49.7   0.1     2   102   430   564   429   566 0.60 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+S0C25184_1           -            670 IstB_IS21            PF01695.12   178   3.1e-05   13.4   0.2   1   1   8.2e-06   9.8e-05   11.7   0.1    42    92   158   210   146   222 0.78 # 57 # 2066 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.503
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /tmp/c6868378-3db3-409c-8a93-e45ff1270b6c
+# Target file:     pmccaffrey6/bins/S0CS0C25184/genes.faa
+# Option settings: hmmsearch --domtblout pmccaffrey6/bins/S0CS0C25184/hmmer.analyze.txt --noali --notextw -E 0.1 --domE 0.1 --cpu 1 /tmp/c6868378-3db3-409c-8a93-e45ff1270b6c pmccaffrey6/bins/S0CS0C25184/genes.faa 
+# Current dir:     /home/pathinformatics/jupyter_projects/vamb/stanford_cs230_project
+# Date:            Mon Mar 15 23:24:03 2021
+# [ok]
